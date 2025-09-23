@@ -53,7 +53,7 @@ Discutons de vos objectifs. Que ce soit pour un nouveau projet, une mise à nive
 *   **📍 Localisation** : Servant Lévis, Québec & les environs.
 *   **📧 Courriel** : [info@greniersolutions.com](mailto:info@greniersolutions.com)
 *   **🌐 Site Web** : [greniersolutions.com](https://greniersolutions.com)
-*   ** Portail Client** : [portail.greniersolutions.com](https://portail.greniersolutions.com)
+*   **Portail Client** : [portail.greniersolutions.com](https://portail.greniersolutions.com)
 
 ---
 
