@@ -57,4 +57,4 @@ Discutons de vos objectifs. Que ce soit pour un nouveau projet, une mise à nive
 
 ---
 
-&copy; 2025 GRENIER SOLUTIONS. Tous droits réservés.
+&copy; 2026 GRENIER SOLUTIONS. Tous droits réservés.
